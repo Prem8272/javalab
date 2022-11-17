@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Vijayalakshmi
- *
- */
-module sample {
-}
